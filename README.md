@@ -8,7 +8,7 @@
 
 <hr width="50%" style="height:5px;">
 
-<h3🕑 What I'm currently doing:</h3>
+<h3>🕑 What I'm currently doing:</h3>
 
 <p>
   I'm right now learning full stack web development using the MERN stack (MongoDB, Express, React and Node). <br/>
