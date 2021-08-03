@@ -21,12 +21,12 @@
   <br/>
   
   Some websites I've designed: <br/>
-  <a href="https://www.shalomethiopia.com">Shalom Ethiopia Tours</a>
-  <a href="https://www.anthonygasparro.com">Anthony Gasparro (Production Designer)</a>
-  <a href="https://www.marisacollins.com">Marisa Collins (Set Decorator)</a>
-  <a href="https://www.marisacollins.com">Rubin Realty Co (Realtor)</a>
-  <a href="https://www.benjaofficial.com">Benja Official Website</a>
-    <a href="https://www.weekliner.com">Weekliner</a> <-- App in development!
+  <a href="https://www.shalomethiopia.com">Shalom Ethiopia Tours</a> <br/>
+  <a href="https://www.anthonygasparro.com">Anthony Gasparro (Production Designer)</a> <br/>
+  <a href="https://www.marisacollins.com">Marisa Collins (Set Decorator)</a> <br/>
+  <a href="https://www.marisacollins.com">Rubin Realty Co (Realtor)</a> <br/>
+  <a href="https://www.benjaofficial.com">Benja Official Website</a> <br/>
+    <a href="https://www.weekliner.com">Weekliner</a> <-- App in development! <br/>
 
   
   
