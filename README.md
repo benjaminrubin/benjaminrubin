@@ -13,8 +13,8 @@
 <p>
   I'm right now learning full stack web development using the MERN stack (MongoDB, Express, React and Node). <br/>
   I'm applying my learnings while co founding a small Saas business -> "Leadeem" - a communication and <br/>
-  data aggregation platform for technician dispatchers 👨🏻‍🔧👩🏻‍🔧. You can check out the platform as it's being <br/>
-  developed right here <a href="https://www.dev.leadeem.com">Leadeem Homepage</a>. Feel free to check out <br/>
+  data aggregation platform for technician dispatchers 👨🏻‍🔧👩🏻‍🔧. You can check out a live version of the platform <br/>
+  in development right here <a href="https://www.dev.leadeem.com">Leadeem Homepage</a>. Feel free to check out <br/>
   the project's repositories and glimpse at the code ↓ <br/>
   <a href="https://github.com/benjaminrubin/leadeem">Front End</a>  /  <a href="https://github.com/benjaminrubin/leadeem-server">Backend</a>  
   
