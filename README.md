@@ -27,13 +27,13 @@
   <a href="https://www.marisacollins.com">Marisa Collins (Set Decorator)</a> <br/>
   <a href="https://www.rubinrealtyco.com">Rubin Realty Co (Realtor)</a> <br/>
   <a href="https://www.benjaofficial.com">Benja Official Website</a> <br/>
-    <a href="https://www.weekliner.com">Weekliner</a> <-- App in development! <br/>
+    <a href="https://www.weekliner.com">Weekliner</a> <-- App in development <br/>
 
   
   
   <br/>
-  Cheers,<br/>
-  Benjamin
+I'm always open to new opportunities, feel free to connect with me:<br/>
+  <a href="mailto:bennyfrubin@gmail.com>bennyfrubin@gmail.com</>
 </p>
 
   
