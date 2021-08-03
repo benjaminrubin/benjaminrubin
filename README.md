@@ -23,6 +23,7 @@
   Some projects I've worked on: <br/>
   <a href="https://www.shalomethiopia.com">Shalom Ethiopia Tours</a> <br/>
   <a href="https://www.anthonygasparro.com">Anthony Gasparro (Production Designer)</a> <br/>
+    <a href="https://benjaminrubin.me/portfolio/branja-case-study">Branja (Event Platform)</a> <br/>
   <a href="https://www.marisacollins.com">Marisa Collins (Set Decorator)</a> <br/>
   <a href="https://www.rubinrealtyco.com">Rubin Realty Co (Realtor)</a> <br/>
   <a href="https://www.benjaofficial.com">Benja Official Website</a> <br/>
