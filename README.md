@@ -33,7 +33,7 @@
   
   <br/>
 I'm always open to new opportunities, feel free to connect with me:<br/>
-  <a href="mailto:bennyfrubin@gmail.com>bennyfrubin@gmail.com</>
+  <a href="mailto:bennyfrubin@gmail.com">bennyfrubin@gmail.com</>
 </p>
 
   
