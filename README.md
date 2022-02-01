@@ -11,8 +11,8 @@
 <h3>🕑 What I'm currently doing:</h3>
 
 <p>
-  Right now working for Amazon as a software engineer with a focus on front end development. <br/>
-  In my spare time I'm learning full stack web development using the MERN stack (MongoDB, Express, React and Node). <br/>
+  Right now working for Amazon on their podcasting platform Art19 as a software engineer with a focus on front end development<br/>
+  In my spare time I'm learning full stack web development using the MERN stack (MongoDB, Express, React and Node)<br/>
   
   <br/>
   
@@ -22,7 +22,8 @@
   <a href="https://www.marisacollins.com">Marisa Collins Portfolio Website (Set Decorator)</a> <br/>
   <a href="https://www.rubinrealtyco.com">Rubin Realty Co Business Landing Page (Realtor)</a> <br/>
   <a href="https://www.benjaofficial.com">Benja Official Website</a> <br/>
-    <a href="https://www.weekliner.com">Weekliner</a> <-- App in development <br/>
+  <a href="https://dev.leadeem.com">Leadeem (beta)</a> <br/>
+  <a href="https://www.weekliner.com">Weekliner</a> <-- App in development <br/>
   <!--     <a href="https://benjaminrubin.me/portfolio/branja-case-study">Branja (Event Platform)</a> <br/> -->
 
   
