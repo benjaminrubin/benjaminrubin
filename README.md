@@ -11,12 +11,8 @@
 <h3>🕑 What I'm currently doing:</h3>
 
 <p>
-  I'm right now learning full stack web development using the MERN stack (MongoDB, Express, React and Node). <br/>
-  I'm applying my learnings while co founding a small Saas business -> "Leadeem" - a communication and <br/>
-  data aggregation platform for technician dispatchers 👨🏻‍🔧👩🏻‍🔧. You can check out a live version of the platform <br/>
-  in development right here <a href="https://github.com/benjaminrubin/leadeem">Leadeem Homepage</a>. Feel free to check out <br/>
-  the project's repositories and glimpse at the code ↓ <br/>
-  <a href="https://github.com/benjaminrubin/leadeem">Front End</a>  /  <a href="https://github.com/benjaminrubin/leadeem-server">Backend</a>  
+  Right now working for Amazon as a software engineer with a focus on front end development. <br/>
+  In my spare time I'm learning full stack web development using the MERN stack (MongoDB, Express, React and Node). <br/>
   
   <br/>
   
