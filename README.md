@@ -1,5 +1,5 @@
 <div align="center">  
-<h3>Hi there! 👨🏻‍💻<br>My name is Benjamin Rubin<br>I'm a Software Engineer and Graphic Designer
+<h3>Welcome visitor, <br>My name is Benjamin Rubin<br>and I'm a Fullstack Software Developer and Graphic Designer
 
 <h4> <a href="https://www.benjaminrubin.me">Personal Website</a> • <a href="https://www.linkedin.com/in/benjaminfloydrubin">LinkedIn</a> </h4>
 
